@@ -1,0 +1,11 @@
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\obj\Debug\netcoreapp3.1\Task2.csprojAssemblyReference.cache
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\codebitacademyfolder\C#\Lab Task 3\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
